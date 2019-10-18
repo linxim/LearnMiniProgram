@@ -1,0 +1,7 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello word</text>
+<button size="mini">按钮</button>
+<view>{{msg}}</view>
+<button bindtap="clickMe">点我</button>
+<button type="default"
+size="{{defaultSize}}">default</button>
